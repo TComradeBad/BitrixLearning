@@ -10,7 +10,7 @@ bitrix/php_interface/.#dbconn.php
 bitrix/modules/updater.log
 bitrix/modules/updater_partner.log
 bitrix/themes/.default/modules.css
-./vendor
+vendor
 /.idea
 /upload
 /.htaccess
