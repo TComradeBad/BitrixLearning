@@ -12,7 +12,6 @@ bitrix/modules/updater_partner.log
 bitrix/themes/.default/modules.css
 vendor
 /.idea
-/upload
 /.htaccess
 ./standard_encode.zip
 /standard_encode.zip
