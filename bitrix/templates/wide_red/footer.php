@@ -44,7 +44,7 @@ IncludeTemplateLangFile(__FILE__);
 										"CACHE_TYPE" => "A",
 										"CACHE_TIME" => "36000000",
 										"GROUP_ID" => "",
-										"BLOG_URL" => "admin-blog-s1"
+										"BLOG_URL" => "admin-blog-vi"
 									),
 									false
 								);?>
@@ -75,7 +75,7 @@ IncludeTemplateLangFile(__FILE__);
 										"CACHE_TYPE" => "A",
 										"CACHE_TIME" => "36000000",
 										"GROUP_ID" => "",
-										"BLOG_URL" => "admin-blog-s1"
+										"BLOG_URL" => "admin-blog-vi"
 									),
 									false
 								);?>
@@ -84,7 +84,7 @@ IncludeTemplateLangFile(__FILE__);
 						</div>
 						<?if(IsModuleInstalled("search") && IsModuleInstalled("blog"))
 						{
-							$arBlog = CBlog::GetByUrl("admin-blog-s1");
+							$arBlog = CBlog::GetByUrl("admin-blog-vi");
 							if(!empty($arBlog))
 							{
 								?>
